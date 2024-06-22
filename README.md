@@ -93,7 +93,6 @@ $ ros2 launch move_tortoisebot move_tortoisebot.launch.py
 ## Roadmap
 
 - [x] Part 1 : Assemble the robot from all the shipped parts.
-
 - [x] Part 2 : Write node to test and control robot.
 
 See the [open issues](https://github.com/llabhishekll/tortoisebot_move/issues) for a full list of proposed features (and known issues).
